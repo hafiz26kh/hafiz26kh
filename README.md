@@ -9,7 +9,7 @@ I'm Hafiz Khanil, a Mechanical Engineer with a passion for the energy industry, 
 - 👯 I’m looking to collaborate on projects related to renewable energy solutions and mechanical system optimization.
 - 💬 Ask me about project management, mechanical engineering, and renewable energy technologies.
 - 📫 How to reach me: [hafiz26kh@gmail.com](mailto:hafiz26kh@gmail.com)
-- 😄 Pronouns: He/Him
+  
 
 ### Education
 
