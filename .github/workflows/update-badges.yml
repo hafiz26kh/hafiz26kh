@@ -1,0 +1,22 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: <hafiz26kh>/<.github> # Replace with your GitHub username and repository name
+          COMMIT_MESSAGE: "Updated README with new badges" # Optional commit message
+          CREDLY_USER: <hafiz-khanil_credly> # Optional Credly username if different from GitHub username
+          CREDLY_SORT: RECENT # Optional: can be RECENT or POPULAR (default is RECENT)
+          BADGE_SIZE: 110 # Optional: badge dimension in pixels (default is 110)
+          NUMBER_LAST_BADGES: 0 # Optional: number of last badges to show (default is 0, showing all)
