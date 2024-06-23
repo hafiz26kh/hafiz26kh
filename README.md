@@ -65,21 +65,21 @@ I'm Hafiz Khanil, a Mechanical Engineer with a passion for the energy industry, 
 - [LinkedIn](https://www.linkedin.com/in/hafizmohdkhanil/)
 - Email: [hafiz26kh@gmail.com](mailto:hafiz26kh@gmail.com)
 
-[![Google Advanced Data Analytics Certificate](https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)](https://www.credly.com/badges/50ad0caa-85ec-4425-ac72-d4dc23200b32)
+<a href="https://www.credly.com/badges/50ad0caa-85ec-4425-ac72-d4dc23200b32"><img src="https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" width="150" /></a>
 
-[![Google Project Management Certificate](https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/6d24032c-b4be-47dd-8336-77f05c81e475)
+<a href="https://www.credly.com/badges/6d24032c-b4be-47dd-8336-77f05c81e475"><img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" width="150" /></a>
 
-[![Google AI Essentials](https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/8dc4a0a5-fbbb-452f-b4ff-7375b43ad016)
+<a href="https://www.credly.com/badges/8dc4a0a5-fbbb-452f-b4ff-7375b43ad016"><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="150" /></a>
 
-[![Google Data Analytics Professional Certificate](https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/58f6ad74-d5c6-4f45-a0d4-fafa03423917)
+<a href="https://www.credly.com/badges/58f6ad74-d5c6-4f45-a0d4-fafa03423917"><img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150" /></a>
 
-[![IBM Data Science Orientation](https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](https://www.credly.com/badges/7405dc5e-e0de-4c2c-a225-dfafb0681c91)
+<a href="https://www.credly.com/badges/7405dc5e-e0de-4c2c-a225-dfafb0681c91"><img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="150" /></a>
 
-[![IBM Data Analytics Essentials](https://images.credly.com/size/340x340/images/42f7ca3c-6eb3-47d2-a7f3-3b1093ea1b35/image.png)](https://www.credly.com/badges/9576ca1c-b35b-49b2-8e51-9c2a89e4ee6f)
+<a href="https://www.credly.com/badges/9576ca1c-b35b-49b2-8e51-9c2a89e4ee6f"><img src="https://images.credly.com/size/340x340/images/42f7ca3c-6eb3-47d2-a7f3-3b1093ea1b35/image.png" width="150" /></a>
 
-[![IBM Python Project for Data Science](https://images.credly.com/size/340x340/images/4dd14b9d-2750-43bc-a5f6-27970c0de0fa/image.png)](https://www.credly.com/badges/4e918c80-29f8-49d6-b1ee-269054d751c7)
+<a href="https://www.credly.com/badges/4e918c80-29f8-49d6-b1ee-269054d751c7"><img src="https://images.credly.com/size/340x340/images/4dd14b9d-2750-43bc-a5f6-27970c0de0fa/image.png" width="150" /></a>
 
-[![IBM Tools for Data Science V2](https://images.credly.com/size/340x340/images/1447954e-9923-4703-a647-eac80e5f0682/image.png)](https://www.credly.com/badges/2301423e-3381-405e-91ec-cd84674b5526)
+<a href="https://www.credly.com/badges/2301423e-3381-405e-91ec-cd84674b5526"><img src="https://images.credly.com/size/340x340/images/1447954e-9923-4703-a647-eac80e5f0682/image.png" width="150" /></a>
 
 
 
