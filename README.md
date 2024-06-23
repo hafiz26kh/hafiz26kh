@@ -65,6 +65,16 @@ I'm Hafiz Khanil, a Mechanical Engineer with a passion for the energy industry, 
 - [LinkedIn](https://www.linkedin.com/in/hafizmohdkhanil/)
 - Email: [hafiz26kh@gmail.com](mailto:hafiz26kh@gmail.com)
 
+![Google Advanced Data Analytics Certificate](https://www.credly.com/badges/50ad0caa-85ec-4425-ac72-d4dc23200b32)
+![Google Project Management Certificate](https://www.credly.com/badges/6d24032c-b4be-47dd-8336-77f05c81e475)
+![Google AI Essentials](https://www.credly.com/badges/8dc4a0a5-fbbb-452f-b4ff-7375b43ad016)
+![Google Data Analytics Professional Certificate](https://www.credly.com/badges/58f6ad74-d5c6-4f45-a0d4-fafa03423917)
+![IBM Data Science Orientation](https://www.credly.com/badges/7405dc5e-e0de-4c2c-a225-dfafb0681c91)
+![IBM Data Analytics Essentials](https://www.credly.com/badges/9576ca1c-b35b-49b2-8e51-9c2a89e4ee6f)
+![IBM Python Project for Data Science](https://www.credly.com/badges/4e918c80-29f8-49d6-b1ee-269054d751c7)
+![IBM Tools for Data Science V2](https://www.credly.com/badges/2301423e-3381-405e-91ec-cd84674b5526)
+
+
 Thanks for visiting! Feel free to explore my projects and repositories. 😊
 
 
