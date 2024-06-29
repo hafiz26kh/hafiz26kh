@@ -67,21 +67,20 @@ I'm Hafiz Khanil, a Mechanical Engineer with a passion for the energy industry, 
 
 
 <p align="center">
-    <a href="https://www.credly.com/badges/50ad0caa-85ec-4425-ac72-d4dc23200b32"><img src="https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" height="120" alt="Google Advanced Data Analytics Certificate"></a>
-    <a href="https://www.credly.com/badges/6d24032c-b4be-47dd-8336-77f05c81e475"><img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="120" alt="Google Project Management Certificate"></a>
-    <a href="https://www.credly.com/badges/8dc4a0a5-fbbb-452f-b4ff-7375b43ad016"><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" height="120" alt="Google AI Essentials"></a>
-    <a href="https://www.credly.com/badges/58f6ad74-d5c6-4f45-a0d4-fafa03423917"><img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" height="120" alt="Google Data Analytics Professional Certificate"></a>
-    <a href="https://www.credly.com/badges/7405dc5e-e0de-4c2c-a225-dfafb0681c91"><img src="https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" height="120" alt="IBM Data Science Orientation"></a>
-    <a href="https://www.credly.com/badges/9576ca1c-b35b-49b2-8e51-9c2a89e4ee6f"><img src="https://images.credly.com/size/340x340/images/42f7ca3c-6eb3-47d2-a7f3-3b1093ea1b35/image.png" height="120" alt="IBM Data Analytics Essentials"></a>
-    <a href="https://www.credly.com/badges/4e918c80-29f8-49d6-b1ee-269054d751c7"><img src="https://images.credly.com/size/340x340/images/4dd14b9d-2750-43bc-a5f6-27970c0de0fa/image.png" height="120" alt="IBM Python Project for Data Science"></a>
-    <a href="https://www.credly.com/badges/2301423e-3381-405e-91ec-cd84674b5526"><img src="https://images.credly.com/size/340x340/images/1447954e-9923-4703-a647-eac80e5f0682/image.png" height="120" alt="IBM Tools for Data Science V2"></a>
-    <br>
-    <a href="https://www.credly.com/badges/f392d8a1-8b5c-4cf7-a430-e2ba7e7f346c"><img src="https://images.credly.com/size/340x340/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" height="120" alt="Data Analysis with Python"></a>
-    <a href="https://www.credly.com/badges/c698851d-3ef9-4839-956e-1eea55506f67"><img src="https://www.credly.com/badges/c698851d-3ef9-4839-956e-1eea55506f67" height="120" alt="Data Visualization with Python"></a>
-    <a href="https://www.credly.com/badges/1762ff41-ad0c-48fa-8087-5abd938297a5"><img src="https://www.credly.com/badges/1762ff41-ad0c-48fa-8087-5abd938297a5" height="120" alt="Excel Essentials for Data Analytics"></a>
-    <a href="https://www.credly.com/badges/961d8855-5661-4dc9-ba01-206289fcd997"><img src="https://www.credly.com/badges/961d8855-5661-4dc9-ba01-206289fcd997" height="120" alt="Machine Learning with Python"></a>
-    <a href="https://www.credly.com/badges/648edb9a-5050-4e15-914f-458968a48220"><img src="https://images.credly.com/size/340x340/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" height="120" alt="Applied Data Science Capstone"></a>
-    <a href="https://www.credly.com/badges/7bf4813a-b135-4d15-8ea8-3a09b1e2444b"><img src="https://www.credly.com/badges/7bf4813a-b135-4d15-8ea8-3a09b1e2444b" height="120" alt="IBM Data Science Professional Certificate"></a>
+    <a href="https://www.credly.com/badges/50ad0caa-85ec-4425-ac72-d4dc23200b32"><img src="https://images.credly.com/size/100x100/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" height="100" alt="Google Advanced Data Analytics Certificate"></a>
+    <a href="https://www.credly.com/badges/6d24032c-b4be-47dd-8336-77f05c81e475"><img src="https://images.credly.com/size/100x100/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="100" alt="Google Project Management Certificate"></a>
+    <a href="https://www.credly.com/badges/8dc4a0a5-fbbb-452f-b4ff-7375b43ad016"><img src="https://images.credly.com/size/100x100/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" height="100" alt="Google AI Essentials"></a>
+    <a href="https://www.credly.com/badges/58f6ad74-d5c6-4f45-a0d4-fafa03423917"><img src="https://images.credly.com/size/100x100/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" height="100" alt="Google Data Analytics Professional Certificate"></a>
+    <a href="https://www.credly.com/badges/7405dc5e-e0de-4c2c-a225-dfafb0681c91"><img src="https://images.credly.com/size/100x100/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" height="100" alt="IBM Data Science Orientation"></a>
+    <a href="https://www.credly.com/badges/9576ca1c-b35b-49b2-8e51-9c2a89e4ee6f"><img src="https://images.credly.com/size/100x100/images/42f7ca3c-6eb3-47d2-a7f3-3b1093ea1b35/image.png" height="100" alt="IBM Data Analytics Essentials"></a>
+    <a href="https://www.credly.com/badges/4e918c80-29f8-49d6-b1ee-269054d751c7"><img src="https://images.credly.com/size/100x100/images/4dd14b9d-2750-43bc-a5f6-27970c0de0fa/image.png" height="100" alt="IBM Python Project for Data Science"></a>
+    <a href="https://www.credly.com/badges/2301423e-3381-405e-91ec-cd84674b5526"><img src="https://images.credly.com/size/100x100/images/1447954e-9923-4703-a647-eac80e5f0682/image.png" height="100" alt="IBM Tools for Data Science V2"></a>
+    <a href="https://www.credly.com/badges/f392d8a1-8b5c-4cf7-a430-e2ba7e7f346c"><img src="https://images.credly.com/size/100x100/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" height="100" alt="Data Analysis with Python"></a>
+    <a href="https://www.credly.com/badges/c698851d-3ef9-4839-956e-1eea55506f67"><img src="https://images.credly.com/size/100x100/images/c698851d-3ef9-4839-956e-1eea55506f67/image.png" height="100" alt="Data Visualization with Python"></a>
+    <a href="https://www.credly.com/badges/1762ff41-ad0c-48fa-8087-5abd938297a5"><img src="https://images.credly.com/size/100x100/images/1762ff41-ad0c-48fa-8087-5abd938297a5/image.png" height="100" alt="Excel Essentials for Data Analytics"></a>
+    <a href="https://www.credly.com/badges/961d8855-5661-4dc9-ba01-206289fcd997"><img src="https://images.credly.com/size/100x100/images/961d8855-5661-4dc9-ba01-206289fcd997/image.png" height="100" alt="Machine Learning with Python"></a>
+    <a href="https://www.credly.com/badges/648edb9a-5050-4e15-914f-458968a48220"><img src="https://images.credly.com/size/100x100/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" height="100" alt="Applied Data Science Capstone"></a>
+    <a href="https://www.credly.com/badges/7bf4813a-b135-4d15-8ea8-3a09b1e2444b"><img src="https://images.credly.com/size/100x100/images/7bf4813a-b135-4d15-8ea8-3a09b1e2444b/image.png" height="100" alt="IBM Data Science Professional Certificate"></a>
 </p>
 
 
