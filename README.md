@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Hafiz Khanil, a Mechanical Engineer with a passion for the energy industry, particularly in oil & gas and renewable energy sectors. Welcome to my GitHub profile!
+I'm Hafiz, a Mechanical Engineer with a passion for the energy industry, particularly in oil & gas and renewable energy sectors. Welcome to my GitHub profile!
 
 ### About Me
 
@@ -18,38 +18,163 @@ I'm Hafiz Khanil, a Mechanical Engineer with a passion for the energy industry, 
 
 ### Experience
 
-- **Engineer – (Protégé)**
-  - Tenaga Nasional Berhad, Jun 2023 – Feb 2024
-    - Managed projects involving mechanical system upgrades and renewable energy installations.
-    - Contributed to the successful installation of a PV solar system, achieving 37.8% electricity savings at Cahaya Resort Port Dickson.
-    - Developed bills of quantities and managed project scopes, budgets, and timelines for multiple projects.
 
-- **Mechanical Engineering Intern**
-  - Kejuruteraan Abad Ria Sdn Bhd, Jun 2021 – Sep 2021
-    - Inspected transmission towers for structural integrity and coordinated maintenance activities.
+### Data Scientist
+**Kaggle** · Freelance  
+**Jun 2024 - Present · 2 mos**  
+Remote  
 
-- **Mechanical Engineering Intern**
-  - Ahmad Zaki Sdn Bhd, Feb 2019 – May 2019
-    - Assisted in project management and ensured documentation accuracy for various engineering projects.
+- Participated in the Digit Recognizer competition on Kaggle:
+  - Achieved top 8% placement out of 1,979 participants.
+  - Utilized Convolutional Neural Network (CNN) architecture with TensorFlow and Keras.
+  - Loaded and preprocessed the MNIST dataset, ensuring normalization and reshaping of images for optimal model performance.
+  - Implemented a CNN with multiple convolutional layers for feature extraction and pooling layers for spatial dimension reduction.
+  - Utilized data augmentation techniques to enhance model generalization and monitored training and validation metrics to iteratively improve accuracy.
+  - Evaluated model performance using accuracy curves and a confusion matrix to assess classification capabilities. Generated predictions on the test dataset and submitted results to Kaggle for evaluation.
+  - Demonstrated the application of CNNs and machine learning techniques in solving image classification challenges, achieving a top-tier performance in the competition.
+  
 
-### Projects
+### Engineer (Protege)
+**Tenaga Nasional Berhad** · Contract  
+**Jul 2023 - Feb 2024 · 8 mos**
 
-- **Development of Observation System Using IoT for Indoor Farming**
-  - Implemented an IoT observation system to improve growth conditions for Apium graveolens var. secalinum Alef.
+- Prepared bills of quantities for diverse projects involving the replacement, modernization, and upgrades of mechanical systems in buildings.
+- Contributed to project management, ensuring the successful execution of tasks and deliverables for a diverse portfolio of 18 projects which included lift replacements, water-cooled chiller upgrades, PV solar system installations, split unit air conditioning, AHU installations, and cooling tower projects.
+- Participated in the project management of the installation of a PV solar system at Cahaya Resort Port Dickson. The system generated an average of 7,350 kWh, compared to the consumption at 19,469.57 kWh, leading to approximately 37.8% electricity savings.
+- Conducted regular inspections of HVAC, elevators, fire protection, mechanical ventilation, and other systems for issues and improvements.
+- Assisted in planning, designing, and executing system upgrades and implemented retrofits, control optimizations, and renewable solutions.
+- Developed project scopes, budgets, timelines, and ensured quality control.
+
+### Professional Development
+**Career Break**  
+**Oct 2022 - Mar 2023 · 6 mos**
+
+**Malaysia Automotive Robotics and IoT Institute (MARii), Cyberjaya, Selangor**
+
+**Module for Soft Skills (5 days)**
+- Updated on problem-solving and improvement techniques including the PDCA cycle, Eisenhower matrix, SMART, and 5W-1H.
+- Educated on time management and discipline-building techniques.
+- Managed stress by identifying its signs, causes, and remedies.
+- Enhanced interviewing, managerial, and transferable abilities to become an outstanding person.
+- Learned debt management techniques, money-making techniques, and money-saving techniques.
+
+**Module for CATIA V5 (3 days)**
+- Topics covered: User Interface, File Management, Geometry Management, Sketch Geometry Creation, Sketch Constraints and Dimensions, Visualizing Modes, Specification Tree, and Modifying Sketch.
+
+**ISO 9001:2015 (3 days)**
+- Basic and historical introduction to ISO 9001:2015.
+- Examined the advantages and specifications of ISO 9001:2015.
+- Informed about QMS and the certification process for ISO 9001:2015.
+- Acquired expertise in resource management and accountability for the ISO 9001:2015 Certification.
+
+### Mechanical Engineering Intern
+**Ahmad Zaki Sdn. Bhd.** · Internship  
+**Feb 2019 - May 2019 · 4 mos**  
+Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+
+- Demonstrated document management of safe records: Inspection form, Request for Information, delivery and purchase order, progress claims, memo, updated drawings, etc.
+- Collaborated with suppliers, consultants, and contractors on all material, technical, coordination, and finance issues.
+- Interacted with company executives and project managers to acquire resources to move projects forward.
+- Ensured subcontractors complied with local regulations and corporate safety and quality standards to achieve zero incidents.
+- Participated in activity planning, monitoring, and site supervision on work sites while providing project execution including delivery, installation, commissioning to ensure successful and timely completion of projects.
+
 
 ### Skills
+You can create a section in your README to showcase these skills without overwhelming the reader. Here’s a structured way to list them:
 
+---
+
+## Skills
+
+### Programming Languages and Tools
+- Python (Programming Language)
+- TensorFlow
+- Tableau
+- RStudio
+- Jupyter
+- SQL
+- Kaggle
+
+### Machine Learning and AI
+- Artificial Neural Networks
+- Recurrent Neural Networks (RNN)
+- Convolutional Neural Networks (CNN)
+- Transformers
+- Deep Learning
+- Machine Learning
+- Machine Learning Algorithms
+- Algorithms
+- Natural Language Processing (NLP)
+- Neural Network Architecture Design
+- Recommender Systems
+- Large Language Models (LLMs)
+- Decision Trees
+- Logistic Regression
+- Linear Regression
+
+### Data Analysis and Visualization
+- Statistical Analysis
+- Regression Models
+- Data Preparation
+- Exploratory Data Analysis
+- Data Visualization
+- Data Analysis
+- Predictive Modeling
+- Data Aggregation
+- Data Cleaning
+- Data Collection
+- Data Ethics
+- Data Calculations
+- Data Integrity
+- Creating Case Studies
+
+### Project Management and Problem Solving
 - Project Management
-- Renewable Energy Solutions
-- Mechanical System Analysis
-- Data Analytics (currently learning)
+- Quality Management
+- Project Charter
+- Organizational Culture
+- Project Execution
+- Effective Communication
+- Procurement
+- Risk Management
+- Agile Management
+- Stakeholder Management
+- Project Planning
+- Coaching
+- Business Writing
+- Strategic Thinking
+- Task Estimation
+- Problem Solving
+- Critical Thinking
+- Iterative Thinking
+- Presentation
+
+### Industry-Specific Skills
+- Production Facilities
+- Oil and Gas Drilling
+- Field Development
+- Offshore Drilling
+- Onshore Oil and Gas Operations
+- Engineering
+- Oil and Gas
 
 ### Certifications
 
-- Certification Of Registration Of Graduate Engineer - Board of Engineers Malaysia
-- NIOSH – Tenaga Safety Passport (NTSP)
+- Deep Learning Specialization by DeepLearning.AI
+- Google Advanced Data Analytics Professional Certificate
+- IBM Data Science Professional Certificate
+- Machine Learning Specialization by Stanford University & DeepLearning.AI
+- Google AI Essentials
 - Google Data Analytics Professional Certificate
-- Google Project Management Professional Certificate
+- Google Project Management Certificate
+- Fundamentals of Offshore Operations
+- Project Management in Oil and Gas
+- Fundamentals of Onshore Operations
+- Seminar Kerjaya Oil & Gas
+- NIOSH - TENAGA SAFETY PASSPORT (NTSP)
+- Penjana KPT-CAP ICE-DEP Programme
+- Certificate Of Registration Of Graduate Engineer
+
 
 ### Achievements
 
