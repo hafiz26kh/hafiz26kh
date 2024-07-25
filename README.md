@@ -231,11 +231,12 @@ SpaceX's pursuit of reusable rockets has revolutionized space travel economics b
     <a href="https://www.credly.com/badges/2301423e-3381-405e-91ec-cd84674b5526"><img src="https://images.credly.com/size/100x100/images/1447954e-9923-4703-a647-eac80e5f0682/image.png" height="100" alt="IBM Tools for Data Science V2"></a>
     <a href="https://www.credly.com/badges/f392d8a1-8b5c-4cf7-a430-e2ba7e7f346c"><img src="https://images.credly.com/size/100x100/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" height="100" alt="Data Analysis with Python"></a>
     <a href="https://www.credly.com/badges/c698851d-3ef9-4839-956e-1eea55506f67"><img src="https://images.credly.com/size/100x100/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png" height="100" alt="Data Visualization with Python"></a>
-    <a href="https://www.credly.com/badges/1762ff41-ad0c-48fa-8087-5abd938297a5"><img src="https://images.credly.com/images/7a675db1-5cbd-4872-b16f-beae148bfbad/image.png" height="100" alt="Excel Essentials for Data Analytics"></a>
+    <a href="https://www.credly.com/badges/1762ff41-ad0c-48fa-8087-5abd938297a5"><img src="https://images.credly.com/images/f1d0f26d-8960-402a-a426-a1c1b7f00650/image.png" height="100" alt="Excel Essentials for Data Analytics"></a>
     <a href="https://www.credly.com/badges/961d8855-5661-4dc9-ba01-206289fcd997"><img src="https://images.credly.com/size/100x100/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png" height="100" alt="Machine Learning with Python"></a>
     <a href="https://www.credly.com/badges/648edb9a-5050-4e15-914f-458968a48220"><img src="https://images.credly.com/size/100x100/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" height="100" alt="Applied Data Science Capstone"></a>
     <a href="https://www.credly.com/badges/7bf4813a-b135-4d15-8ea8-3a09b1e2444b"><img src="https://images.credly.com/size/100x100/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png" height="100" alt="IBM Data Science Professional Certificate"></a>
 </p>
+
 
 
 
