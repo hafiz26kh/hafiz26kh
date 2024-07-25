@@ -79,84 +79,20 @@ Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
 - Participated in activity planning, monitoring, and site supervision on work sites while providing project execution including delivery, installation, commissioning to ensure successful and timely completion of projects.
 
 
-### Skills
-You can create a section in your README to showcase these skills without overwhelming the reader. Here’s a structured way to list them:
-
----
-
 ## Skills
 
-### Programming Languages and Tools
-- Python (Programming Language)
-- TensorFlow
-- Tableau
-- RStudio
-- Jupyter
-- SQL
-- Kaggle
+**Skills:**
 
-### Machine Learning and AI
-- Artificial Neural Networks
-- Recurrent Neural Networks (RNN)
-- Convolutional Neural Networks (CNN)
-- Transformers
-- Deep Learning
-- Machine Learning
-- Machine Learning Algorithms
-- Algorithms
-- Natural Language Processing (NLP)
-- Neural Network Architecture Design
-- Recommender Systems
-- Large Language Models (LLMs)
-- Decision Trees
-- Logistic Regression
-- Linear Regression
+- **Programming Languages and Tools:** Python, TensorFlow, Tableau, RStudio, Jupyter, SQL, Kaggle
 
-### Data Analysis and Visualization
-- Statistical Analysis
-- Regression Models
-- Data Preparation
-- Exploratory Data Analysis
-- Data Visualization
-- Data Analysis
-- Predictive Modeling
-- Data Aggregation
-- Data Cleaning
-- Data Collection
-- Data Ethics
-- Data Calculations
-- Data Integrity
-- Creating Case Studies
+- **Machine Learning and AI:** Artificial Neural Networks, Recurrent Neural Networks (RNN), Convolutional Neural Networks (CNN), Transformers, Deep Learning, Machine Learning, Machine Learning Algorithms, Natural Language Processing (NLP), Neural Network Architecture Design, Recommender Systems, Large Language Models (LLMs), Decision Trees, Logistic Regression, Linear Regression
 
-### Project Management and Problem Solving
-- Project Management
-- Quality Management
-- Project Charter
-- Organizational Culture
-- Project Execution
-- Effective Communication
-- Procurement
-- Risk Management
-- Agile Management
-- Stakeholder Management
-- Project Planning
-- Coaching
-- Business Writing
-- Strategic Thinking
-- Task Estimation
-- Problem Solving
-- Critical Thinking
-- Iterative Thinking
-- Presentation
+- **Data Analysis and Visualization:** Statistical Analysis, Regression Models, Data Preparation, Exploratory Data Analysis, Data Visualization, Predictive Modeling, Data Aggregation, Data Cleaning, Data Collection, Data Ethics, Data Calculations, Data Integrity, Creating Case Studies
 
-### Industry-Specific Skills
-- Production Facilities
-- Oil and Gas Drilling
-- Field Development
-- Offshore Drilling
-- Onshore Oil and Gas Operations
-- Engineering
-- Oil and Gas
+- **Project Management and Problem Solving:** Project Management, Quality Management, Project Charter, Organizational Culture, Project Execution, Effective Communication, Procurement, Risk Management, Agile Management, Stakeholder Management, Project Planning, Coaching, Business Writing, Strategic Thinking, Task Estimation, Problem Solving, Critical Thinking, Iterative Thinking, Presentation
+
+- **Industry-Specific Skills:** Production Facilities, Oil and Gas Drilling, Field Development, Offshore Drilling, Onshore Oil and Gas Operations, Engineering, Oil and Gas
+
 
 ### Certifications
 
@@ -176,10 +112,103 @@ You can create a section in your README to showcase these skills without overwhe
 - Certificate Of Registration Of Graduate Engineer
 
 
-### Achievements
+## Projects
 
-- Managed PV solar system installation resulting in 37.8% electricity savings at Cahaya Resort Port Dickson.
-- Successfully completed installation of 14 air handling units at TNB Headquarters, meeting project milestones on schedule.
+### Digit Recognizer Competition - Kaggle
+**Jun 2024 - Jun 2024**
+
+**Competition Description:**
+The Digit Recognizer competition on Kaggle tasked participants with accurately classifying digits from handwritten images using machine learning models. This classic dataset, known as MNIST ("Modified National Institute of Standards and Technology"), has been a cornerstone in the field of computer vision since its release, serving as a benchmark for classification algorithms.
+
+**Workflow Overview:**
+1. **Data Preparation:** Loaded and preprocessed the dataset, ensuring all images were normalized and reshaped for optimal model performance.
+2. **Model Development:** Implemented a Convolutional Neural Network (CNN) architecture using TensorFlow and Keras. The model consisted of multiple convolutional layers for feature extraction, followed by pooling layers to reduce spatial dimensions.
+3. **Training and Validation:** Trained the model using data augmentation techniques to enhance its ability to generalize to new data. Monitored training and validation metrics to iteratively improve model accuracy.
+4. **Evaluation:** Evaluated the model's performance using accuracy curves and a confusion matrix, providing insights into its classification capabilities.
+5. **Prediction and Submission:** Generated predictions for the test dataset and submitted results to Kaggle for evaluation against other participants.
+
+**End Result:**
+Achieved a top 8% placement among competitors, demonstrating effective utilization of CNNs and machine learning techniques in solving real-world image classification challenges.
+
+[Link to my Kaggle notebook](https://www.kaggle.com/code/hafizkhanil/digit-recognizer-competition/notebook?scriptVersionId=186198770)
+
+**Skills:** Python, Machine Learning, Data Analysis, Computer Vision, Convolutional Neural Networks (CNN), Data Preparation
+
+---
+
+### Employee Retention Project - Salifort Motors (Google Advanced Data Analytics Certificate Capstone Project)
+**Associated with Coursera**
+
+**Data Preprocessing and Cleaning:**
+- Collected and cleaned the dataset, addressing missing values and outliers.
+- Standardized and normalized features to ensure consistency and improve model performance.
+- Encoded categorical variables and handled class imbalances to optimize the dataset for modeling.
+
+**Exploratory Data Analysis (EDA):**
+- Conducted thorough EDA to identify patterns and relationships within the data.
+- Visualized distributions, correlations, and trends using libraries such as Matplotlib and Seaborn.
+- Highlighted key statistics and insights that informed feature selection and engineering.
+
+**Feature Engineering:**
+- Created new features and transformed existing ones to enhance model accuracy.
+- Selected relevant features using techniques like correlation analysis and feature importance from preliminary models.
+- Key features identified included last_evaluation, tenure, and number_project, which significantly influenced employee retention.
+
+**Model Implementation:**
+- Implemented Logistic Regression and Random Forest algorithms to predict employee attrition.
+- Fine-tuned model hyperparameters using GridSearchCV and cross-validation to ensure optimal performance.
+- Evaluated models using accuracy, precision, recall, F1-score, and ROC-AUC metrics to ensure reliability.
+
+**Insights and Recommendations:**
+- Analyzed model outputs to identify factors contributing to employee attrition.
+- Provided actionable recommendations such as enhancing evaluation processes, improving project assignment practices, and focusing on employee tenure management.
+- Presented findings and recommendations to stakeholders through comprehensive reports and visualizations.
+
+**Technical Stack:** Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Logistic Regression, Random Forest, GridSearchCV, Cross-Validation
+
+**Skills:** Python, Scikit-Learn, pandas, Matplotlib, NumPy, Logistic Regression, Data Analytics, Seaborn, Random Forest, Data Preparation
+
+---
+
+### IBM Applied Data Science Capstone - Predicting Success of SpaceX First-Stage Retrieval Events
+**Associated with Coursera**
+
+**Summary of Methodologies:**
+- Combined API integration and web scraping for data collection.
+- Used Python's data manipulation tools for rigorous data cleansing.
+- SQL queries were employed to extract relevant insights from the refined dataset.
+- Systematic data visualization and trend analysis provided initial insights.
+- Implemented supervised machine learning models to predict the success of SpaceX's first-stage retrieval events.
+
+**Summary of Results:**
+- Uncovered significant patterns and correlations influencing the success of first-stage retrieval events.
+- Developed and trained a predictive model achieving an impressive accuracy rate of 88%.
+- The model offers reliable forecasts, enhancing decision-making in space industry operations.
+
+**Introduction:**
+SpaceX's pursuit of reusable rockets has revolutionized space travel economics by focusing on first-stage retrieval. Predicting the success of these events is critical for optimizing resource allocation and enhancing mission success rates, ultimately contributing to substantial cost savings.
+
+**Executive Summary:**
+- **Data Collection Methodology:** Combined API integration and web scraping; Python for data wrangling; SQL for data extraction.
+- **Exploratory Data Analysis (EDA):** Utilized visualization and SQL for initial insights; interactive visual analytics with Folium and Plotly Dash.
+- **Predictive Analysis:** Implemented classification models for predicting success; built, tuned, and evaluated models for accuracy and reliability.
+
+**Skills:** Python, Machine Learning, Data Analysis, Data Visualization, Data Preparation, Jupyter
+
+[GitHub - IBM Data Science Professional Certification](https://github.com/hafiz26kh/IBM-Data-Science-Professional-Certification)
+
+---
+
+### Installation of a PV Solar System at Cahaya Resort Port Dickson
+**Associated with Tenaga Nasional Berhad**
+
+**Achievements:**
+- Implemented advanced solar technology to enhance system performance.
+- Ensured seamless project execution with a focus on quality and reliability.
+- Set a new standard in renewable energy projects through rigorous testing and optimization.
+- Contributed to environmental sustainability and energy efficiency.
+
+**Skills:** Project Management, Project Planning, Project Execution, Mechanical Engineering
 
 ### Extra-curricular Activities
 
