@@ -235,6 +235,10 @@ SpaceX's pursuit of reusable rockets has revolutionized space travel economics b
     <a href="https://www.credly.com/badges/961d8855-5661-4dc9-ba01-206289fcd997"><img src="https://images.credly.com/size/100x100/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png" height="100" alt="Machine Learning with Python"></a>
     <a href="https://www.credly.com/badges/648edb9a-5050-4e15-914f-458968a48220"><img src="https://images.credly.com/size/100x100/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" height="100" alt="Applied Data Science Capstone"></a>
     <a href="https://www.credly.com/badges/7bf4813a-b135-4d15-8ea8-3a09b1e2444b"><img src="https://images.credly.com/size/100x100/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png" height="100" alt="IBM Data Science Professional Certificate"></a>
+    <a href="https://www.credly.com/badges/6a0708c5-6c73-4bb1-989f-3c12fc4400d8"><img src="https://images.credly.com/size/100x100/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" height="100" alt="Deep Learning Specialization"></a>
+    <a href="https://www.credly.com/badges/0c0d1ae8-6fc6-4d3a-b4c4-5c17f768f57b"><img src="https://images.credly.com/size/100x100/images/34bc57a9-659c-4500-ac30-48d50b942478/image.png" height="100" alt="Exploratory Data Analysis for Machine Learning"></a>
+    <a href="https://www.credly.com/badges/9c541803-8ed7-4e3b-8466-f6f57614b13e"><img src="https://images.credly.com/images/5ce4d440-596a-4598-a106-358e64c05e5e/image.png" height="100" alt="Supervised Machine Learning: Regression"></a>
+    <a href="https://www.credly.com/badges/58b9a9b7-f223-4d2a-abe4-139c79efb1ec"><img src="https://images.credly.com/images/19878499-c3d3-4e67-8b97-8ec273187ccd/image.png" height="100" alt="Supervised Machine Learning: Classification"></a>
 </p>
 
 
