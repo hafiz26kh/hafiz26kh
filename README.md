@@ -19,6 +19,37 @@ I'm Hafiz, a Mechanical Engineer with a passion for the energy industry, particu
 ### Experience
 
 
+### Experience
+
+### Mechanical Engineer (Boiler & BOP)
+**TNB Genco (Perai Power Plant)** · Full-time  
+**Jan 2025 - Present · 1 yr 2 mos**
+
+- Oversee the operation, maintenance, and performance optimization of boilers and BOP systems to ensure safe, efficient, and reliable power generation.  
+- Supervise planned and forced outages, including HRSG inspections, SHEX cleaning, valve replacements, and Feedwater Pump overhauls, coordinating multiple contractors to ensure timely and quality execution.  
+- Manage procurement and contract activities for critical spares and services, including HRSG blowdown pumps, ARCV spare parts, PHEX gaskets, and MOV components.  
+- Assist in plant startups and commissioning as part of standby teams for GT, HRSG, and ST at Block 10 & 20.  
+
+**Skills:** Engineering · Mechanical Engineering
+
+---
+
+### Operation Planning Engineer
+**TNB Genco (Gelugor Power Station)** · Full-time  
+**Sep 2024 - Dec 2024 · 4 mos** · On-site
+
+- Conducted monthly forecasting and submission of Energy Payment and Capacity Payment invoices, ensuring compliance with financial timelines.  
+- Prepared and analyzed performance reports, including Monthly Performance Report (MPR), Energy Commission Report (ECR), and SLA Performance Report, to monitor key operational metrics.  
+- Coordinated planned and unplanned outage activities, including updating schedules in OSSC, managing Risk Control Action Plans, and submitting RCA reports.  
+- Monitored and optimized fuel usage, validated gas supply, and managed critical resources such as hydrogen, nitrogen, and carbon dioxide for plant operations.  
+- Oversaw critical compliance tests, including energy meter validation, houseload, and black start tests, in coordination with Single Buyer, TNB Fuel, and GSO.  
+- Managed station risk reviews, business planning, and annual target setting for Availability Targets (AT) and ASAC, ensuring alignment with strategic goals.  
+- Leveraged digital tools like OSSC and GOMS to enhance operational efficiency and real-time monitoring.  
+- Collaborated with cross-functional teams, including Finance, CRM, and AOM, to address performance risks and align operations with organizational objectives.  
+
+**Skills:** Operation Planning · Energy Management · Performance Analysis
+
+
 ### Data Scientist
 **Kaggle** · Freelance  
 **Jun 2024 - Present · 2 mos**  
